@@ -1,4 +1,4 @@
-# ISC-Computing-Project-HW-2023-TokiPonaSpellChecker
+# Computing-Project-HW-2023-TokiPonaSpellChecker
 
 This is a website project created for the Computing Project Homework-TokiPonaSpellChecker in May 2023. For more information please check that 2 docx.
 
