@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TokiPonaSpellChecker
+comment1.params=
+comment1.target=TokiPonaSpellChecker()
+comment2.params=word
+comment2.target=boolean\ isSpelledCorrectly(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=word
+comment4.target=void\ addWord(java.lang.String)
+comment5.params=NameandPlace
+comment5.target=void\ addNameandPlace(java.lang.String)
+comment6.params=prefix
+comment6.target=java.util.List\ suggestWords(java.lang.String)
+comment7.params=sentence
+comment7.target=boolean\ isGrammarCorrect(java.lang.String)
+numComments=8
