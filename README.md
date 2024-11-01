@@ -1,6 +1,7 @@
 # Computing-Project-HW-2023-TokiPonaSpellChecker
 
-This repository contains a Java project developed for the Foundation SEP_IFY: Computing Project (COPR) module. In this project, I created a spell checker and predictive text system specifically for the Toki Pona language, utilizing Java and the BlueJ IDE. The project was completed in May 2023 and received a grade of 90%.
+This repository contains a Java project developed for the Foundation SEP_IFY: Computing Project (COPR) module. In this project, I created a spell checker and predictive text system specifically for the Toki Pona language, utilizing Java and the BlueJ IDE. The project was completed in May 2023 and received a grade of 90%. For more information please check the PDF file.
+
 ## Project Overview
 
 **Project Title:** Toki Pona Spell Checker and Predictive Text System  
