@@ -1,11 +1,6 @@
 # Computing-Project-HW-2023-TokiPonaSpellChecker
 
-This repository contains a Java project developed for Foundation SEP_IFY: Computing Project (COPR) module, specifically focusing on a spell checker and predictive text system for the Toki Pona language. The project was completed in May 2023. For additional details, please refer to the accompanying PDF documents.
-
-# Computing Project - Toki Pona Spell Checker
-
-This repository showcases my project for the Computing Project module, where I developed a spell checker and predictive text system for the Toki Pona language using Java and the BlueJ IDE. The project was completed in May 2023 and received a grade of 90%.
-
+This repository contains a Java project developed for the Foundation SEP_IFY: Computing Project (COPR) module. In this project, I created a spell checker and predictive text system specifically for the Toki Pona language, utilizing Java and the BlueJ IDE. The project was completed in May 2023 and received a grade of 90%.
 ## Project Overview
 
 **Project Title:** Toki Pona Spell Checker and Predictive Text System  
@@ -22,11 +17,11 @@ This repository showcases my project for the Computing Project module, where I d
 ## Key Features
 
 1. **Spell Checker Implementation:**
-   - Utilizes a defined list of valid words to determine if input words are spelled correctly.
+   - Utilizes a defined list of valid words to determine if input words are spelt correctly.
    - Implements a method `isSpelledCorrectly(String word)` that returns true if the word exists in the dictionary.
 
 2. **Word Suggestion Algorithm:**
-   - Suggests possible completions for misspelled words based on a prefix through the `suggestWords(String prefix)` method.
+   - Suggests possible completions for misspelt words based on a prefix through the `suggest words (String prefix)` method.
 
 3. **Basic Grammar Validation:**
    - Checks if input sentences adhere to Toki Pona's simple Subject-Verb-Object (SVO) structure using the `isGrammarCorrect(String sentence)` method.
@@ -45,7 +40,7 @@ I chose to create a spell checker for Toki Pona due to its unique linguistic str
 
 - Develop a reliable spell-checking system that accurately identifies correct spellings.
 - Create a user-friendly predictive text feature that enhances user input efficiency.
-- Implement a grammar checking capability to assist in forming correct sentences.
+- Implement a grammar-checking capability to assist in forming correct sentences.
 
 ### Methodology
 
